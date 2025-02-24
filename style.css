@@ -57,7 +57,7 @@ body {
     display: inline-block;
     background-color: #cc0000; /* Red button */
     color: white;
-    padding: 12px 30px;
+    padding: 10px;
     font-size: 1.2rem;
     font-weight: 600;
     border-radius: 30px;
