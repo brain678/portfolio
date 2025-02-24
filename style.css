@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+  
     color: white;
     background: url('images/IMG_8476.jpeg') no-repeat center center/cover;
     overflow: hidden;
